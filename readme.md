@@ -61,7 +61,7 @@ Swipe N Switch - Swich between AR and VR mode with just one swipe never let tech
   - Azure
  
 
-## Steps to run Unity Virtual SHowroom
+## Steps to run Unity Virtual Showroom
  - Open the Unity Vritual Car showeoom in Unity editor Version above>2021.0
  - Switch platform to android
  - Open the Scene from assets
